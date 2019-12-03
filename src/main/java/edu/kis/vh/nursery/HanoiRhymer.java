@@ -16,3 +16,4 @@ public class HanoiRhymer extends defaultCountingOutRhymer {
     }
 }
 //wiersze 5 12 14 17
+//komenda ta zmienia klasy
