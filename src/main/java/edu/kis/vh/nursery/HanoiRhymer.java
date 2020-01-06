@@ -17,5 +17,7 @@ public final class HanoiRhymer extends DefaultCountingOutRhymer {
     }
 }
 //wiersze 5 12 14 17
-//komenda ta zmienia klasy
 //alt + ← i alt + → umozliwia przelaczanie sie pomiedzy otwartymi klasami
+//ctrl+alt+l -> automatyczne formatowanie
+// alt+shift+r zamiana globalnie nazwy zmiennej
+
